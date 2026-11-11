@@ -1,6 +1,0 @@
-name: "untracked"
-description: "Detect untracked files"
-runs:
-  using: "node24"
-  main: "index.js"
-  post: "post.js"
